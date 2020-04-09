@@ -37,7 +37,7 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:https://github.com/amateus1/devopsbase.git</connection>
+		<connection>scm:git:c9fe2c164f999a8b9a1621adf74548abbb56c20d:https://github.com/amateus1/devopsbase.git</connection>
 		<url>https://github.com/amateus1/devopsbase.git</url>
 		<tag>v1.0.0</tag>
 	</scm>
