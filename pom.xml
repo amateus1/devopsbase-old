@@ -38,7 +38,7 @@
 
 	<scm>
 		<url>https://github.com/amateus1/devopsbase</url>
-		<connection>scm:git:git://github.com/amateus1/devopsbase.git</connection>
+		<connection>scm:git:https://github.com/amateus1/devopsbase.git</connection>
 	</scm>
 
 	<dependencies>
