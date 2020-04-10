@@ -41,8 +41,7 @@
 		<url>https://github.com/amateus1/devopsbase</url>
 		<connection>scm:git:https://github.com/amateus1/devopsbase.git</connection>
 	  	<tag>v1.1.0</tag>
-		<project.scm.id>github</project.scm.id>
-  	</scm>
+	</scm>
 
 	<dependencies>
 		<dependency>
