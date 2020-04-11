@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-
 	<groupId>com.example</groupId>
 	<artifactId>devops</artifactId>
 	<packaging>war</packaging>
-
+	<version>1.7.2-SNAPSHOT</version>
 	<name>devops</name>
 	<description>DevOps Demo Project</description>
 
@@ -41,6 +40,7 @@
 	<scm>
 		<url>https://github.com/amateus1/devopsbase</url>
 		<connection>scm:git:https://github.com/amateus1/devopsbase.git</connection>
+		<tag>v1.6.1</tag>
 	</scm>
 
 	<dependencies>
