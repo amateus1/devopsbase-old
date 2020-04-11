@@ -3,6 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.example</groupId>
 	<artifactId>devops</artifactId>
+	<version>1.7.2-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>devops</name>
 	<description>DevOps Demo Project</description>
@@ -39,7 +40,7 @@
 	<scm>
 		<url>https://github.com/amateus1/devopsbase</url>
 		<connection>scm:git:https://github.com/amateus1/devopsbase.git</connection>
-
+		<tag>v1.6.1</tag>
 	</scm>
 
 	<dependencies>
